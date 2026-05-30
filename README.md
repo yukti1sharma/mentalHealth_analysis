@@ -1,9 +1,6 @@
-# 🧠 Multimodal Fusion for Depression Severity Estimation
+# Multimodal Fusion for Depression Severity Estimation
 
 > Multimodal fusion of facial dynamics and clinical interview transcripts for automated PHQ-8 depression severity prediction.
-
-**Anushka Kathil · Dhruvi Sharma · Apoorva Bajpai**  
-*Supervisor: Dr. Afreen Khursheed | ECE Department, IIIT Bhopal*
 
 ---
 
